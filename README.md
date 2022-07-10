@@ -4,7 +4,9 @@ Bu repo [Kodluyoruz](https://www.kodluyoruz.org) Front-End Egitiminde olusturdug
 ## Installation
 
 Oncelikle projeyi clonelayin. (Buraya sizin reponuzdan aldiginiz link gelecek)
-``` git clone https://github.com/OzcanCAVGA/kodluyoruzilkrepo.git ```
+``` 
+git clone https://github.com/OzcanCAVGA/kodluyoruzilkrepo.git 
+```
 
 ## Usage
 Projeyi cloneladiktan sonra Visual Studio Code programini aciniz.
@@ -20,4 +22,4 @@ code .
 Pull requestler kabul edilir. Buyuk degisiklikler icin, lutfen once neyi degistirmek istediginizi tartismak icin bu konuyu aciniz.
 
 ## License
-[MIT][https://choosealicense.com/licenses/mit/]
+[MIT](https://choosealicense.com/licenses/mit/)
